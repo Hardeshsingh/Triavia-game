@@ -26,12 +26,21 @@ img {
   width: 200%;
   margin-left: -370px;
 }
+#banner{
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#trivia-banner{
+   width: 500px;
+   
+}
 
 .container-fluid {
   max-width: 800px;
   min-height: 100vh;
   padding: 0px;
-  color: rgb(187, 4, 4);
+  color: rgb(1, 8, 57);
 }
 
 .question {
@@ -168,3 +177,4 @@ img {
   border: 2px;
   color: black;
 }
+
